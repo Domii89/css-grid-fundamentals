@@ -1,0 +1,20 @@
+.item {
+    background-color: aquamarine;
+    border: 1px solid blue;
+}
+
+.container {
+    display: grid;
+}
+
+body {
+    margin: 50px;
+    text-align: center;
+    background: linear-gradient(to right, #4a78c2, #ebe986);
+    font-family: sans-serif;
+    /* align-items: center; */
+}
+
+:root {
+    --bla: yellow;
+}
